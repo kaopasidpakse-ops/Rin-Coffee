@@ -222,7 +222,7 @@ header{
 }
 
 
-@media (min-width:320px) and (max-width:680px) {
+@media (min-width:320px) and (max-width:768px) {
     .nev ul {
         display: none;
     }
@@ -263,7 +263,7 @@ header{
         
         height: auto;
        padding: 50px 0px; 
-       width: 700px;
+       width: 800px;
        
     }
     .wed-contact{
@@ -275,7 +275,7 @@ header{
     
 }
 }
-@media (min-width:681px) and (max-width:980px) {
+@media (min-width:769px) and (max-width:1000px) {
     .topwed{
         margin:0px 10px;
         /* margin-left: 10px;  */
@@ -315,7 +315,7 @@ header{
         
     }
     header{
-        width:1000px;
+        width:856px;
         height: 0 auto;
         padding: 50px 50px;
     }
